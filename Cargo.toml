@@ -12,7 +12,7 @@ categories = ["command-line-utilities"]
 
 [dependencies]
 structopt = "0.2.18"
-rayon = "1.5.1"
+rayon = "1.7.0"
 pretty-bytes = "0.2.2"
 termcolor = "1.1.2"
 atty = "0.2.14"
